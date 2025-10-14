@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>amazonlinux.s3-ap-southeast-1.amazonaws.com</Endpoint><Bucket>amazonlinux</Bucket><RequestId>8N6D6GXE2SRCF1HT</RequestId><HostId>22aRLkw+r5zljir78rywvA2VtDeYwoFzDcevZv2SAkcZ5DtGIfhgaok+49UXsYeWwhbsAQyI6mQ=</HostId></Error>
